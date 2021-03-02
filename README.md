@@ -5,6 +5,7 @@ Este proyecto es una React.js App, y no viene incluida la carpeta de node_module
 \[ npx create-react-app my-app ]
 y sustituir el resto de los archivos/carpetas por los correspondientes al proyecto para poder correrlo.
 La aplicación se corre con \[ npm start ] mientras se encuentra en el directorio de la carpeta del proyecto.
+
 ...
 
 (en) A web application where a user registers and accesses a page where he can search for books by their ISBN code and add them to a favorites list.
