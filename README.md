@@ -8,7 +8,7 @@ La aplicación se corre con \[ npm start ] mientras se encuentra en el directori
 
 ...
 
-(en) A web application where a user registers and accesses a page where he can search for books by their ISBN code and add them to a favorites list.
+(**en**) A web application where a user registers and accesses a page where he can search for books by their ISBN code and add them to a favorites list.
 
 This project is a React.js App, and the node_modules folder is not included, so you have to create an application
 \[ npx create-react-app my-app ]
