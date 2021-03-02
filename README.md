@@ -5,6 +5,7 @@ Una aplicación web en donde un usuairo se registra y accede a una página en do
 Este proyecto es una React.js App, y no viene incluida la carpeta de node_modules, por lo que hay que crear una applicación
 \[ npx create-react-app my-app ]
 y sustituir el resto de los archivos/carpetas por los correspondientes al proyecto para poder correrlo.
+
 (en) This project is a React.js App, and the node_modules folder is not included, so you have to create an application
 \[ npx create-react-app my-app ]
 and replace the rest of the files/folders with those corresponding to the project in order to run it.
