@@ -6,6 +6,8 @@ Este proyecto es una React.js App, y no viene incluida la carpeta de node_module
 y sustituir el resto de los archivos/carpetas por los correspondientes al proyecto para poder correrlo.
 La aplicación se corre con \[ npm start ] mientras se encuentra en el directorio de la carpeta del proyecto.
 
+AppBusquedaLibrosWeb.zip contiene a todos los archivos/carpetas necesarios (a excepción de node_modules) para el proyecto.
+
 ...
 
 (**en**) A web application where a user registers and accesses a page where he can search for books by their ISBN code and add them to a favorites list.
@@ -14,3 +16,5 @@ This project is a React.js App, and the node_modules folder is not included, so 
 \[ npx create-react-app my-app ]
 and replace the rest of the files/folders with those corresponding to the project in order to run it.
 The app is run with \[ npm start ] while in the project folder directory.
+
+AppBusquedaLibrosWeb.zip contains all the necessary files/folders (except node_modules) for the project.
