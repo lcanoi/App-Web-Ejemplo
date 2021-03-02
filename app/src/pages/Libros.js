@@ -54,7 +54,7 @@ class Libros extends React.Component{
                 label={"Código ISBN "}/>
                 {this.state.displayTip &&  
                 <Alert color="success">
-                    Escribe el código ISBN del libro que quieras buscar (ej: 9780747532743)
+                    Escribe el código ISBN del libro que quieras buscar (ej: 9780747532743) Puede tomar unos segundos en aparecer
                 </Alert>
                 }
                 <br/>
