@@ -3,10 +3,17 @@ Una aplicación web en donde un usuairo se registra y accede a una página en do
 
 Este proyecto es una React.js App, y no viene incluida la carpeta de node_modules, por lo que hay que crear una applicación
 \[ npx create-react-app mi_proyecto ]
-y sustituir el resto de los archivos/carpetas por los correspondientes al proyecto para poder correrlo. Si utiliza un nombre diferente para la React App, asegurese de actualizarlo en los archivos .json de este proyecto.
+y sustituir las otras carpetas por las correspondientes al proyecto para poder correrlo.
 La aplicación se corre con \[ npm start ] mientras se encuentra en el directorio de la carpeta del proyecto.
 
-AppBusquedaLibrosWeb.zip contiene a todos los archivos/carpetas necesarios (a excepción de node_modules) para el proyecto.
+Para agregar los módulos de node necesarios, corra las siguientes líneas en terminal en el directorio de su proyecto:
+- npm install axios
+- npm install react-bootstrap bootstrap
+- npm install redux react-redux
+- npm install --save react-router-dom
+- npm install --save reactstrap react react-dom
+
+AppBusquedaLibrosWeb.zip contiene a todos los archivos/carpetas necesarios para el proyecto.
 
 ...
 
@@ -14,7 +21,14 @@ AppBusquedaLibrosWeb.zip contiene a todos los archivos/carpetas necesarios (a ex
 
 This project is a React.js App, and the node_modules folder is not included, so you have to create an application
 \[ npx create-react-app mi_proyecto ]
-and replace the rest of the files/folders with those corresponding to the project in order to run it. If you use a different name for the React App be sure to update it on the .json files of this proyect.
+and replace the other folders with those corresponding to the project in order to run it.
 The app is run with \[ npm start ] while in the project folder directory.
 
-AppBusquedaLibrosWeb.zip contains all the necessary files/folders (except node_modules) for the project.
+To add the necessary node modules, run the following lines in terminal in your project directory:
+- npm install axios
+- npm install react-bootstrap bootstrap
+- npm install redux react-redux
+- npm install --save react-router-dom
+- npm install --save reactstrap react react-dom
+
+AppBusquedaLibrosWeb.zip contains all the necessary files/folders for the project.
