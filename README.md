@@ -5,7 +5,7 @@ Este proyecto es una React.js App, y no viene incluida la carpeta de node_module
 \[ npm install ]
 La aplicación se corre con \[ npm start ] mientras se encuentra en el directorio de la carpeta del proyecto.
 
-Para agregar los módulos de node necesarios, corra las siguientes líneas en terminal en el directorio de su proyecto:
+Los módulos de node utilizados en el proyecto son los siguientes:
 - npm install axios
 - npm install react-bootstrap bootstrap
 - npm install redux react-redux
@@ -22,7 +22,7 @@ This project is a React.js App, and the node_modules folder is not included, so 
 \[ npm install ]
 The app is run with \[ npm start ] while in the project folder directory.
 
-To add the necessary node modules, run the following lines in terminal in your project directory:
+The node modules used in this proyect are the following:
 - npm install axios
 - npm install react-bootstrap bootstrap
 - npm install redux react-redux
